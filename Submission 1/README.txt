@@ -11,7 +11,7 @@ Project title:
 Bangla Clickbait Detection from News Headline using BanglaBERT and Ensemble Techniques
 
 Group Number:
-20
+32
 
 Group Members:
 20101012 Tanusree Das Aishi
