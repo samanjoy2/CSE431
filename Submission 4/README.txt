@@ -2,13 +2,13 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/7765519231syfffxbrgkmp
 
 Unlisted YouTube video:
-https://youtu.be/GK5bu7SLiwg
+https://youtu.be/tAOclBfLmSw
 
 Paper title:
 BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Specific BanglaBERT and MLP Techniques
 
 Paper PDF link:
-
+https://github.com/samanjoy2/CSE431/blob/main/Submission%204/1st%20Draft.pdf
 
 Group Number:
 32
