@@ -8,7 +8,7 @@ Paper title:
 BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Specific BanglaBERT and MLP Techniques
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/
+https://github.com/samanjoy2/CSE431/blob/main/Submission%205/2nd%20Draft.pdf
 
 Group Number:
 32
