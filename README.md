@@ -5,7 +5,7 @@ Repository of Research Project Submissions
 https://www.youtube.com/playlist?list=PLFXMRU5lmrwxhmybvmrkFm6vm9iwLAjyF
 
 ### Project title:
-Bangla Clickbait Detection from News Headline using BanglaBERT and Ensemble Techniques
+BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Specific BanglaBERT and MLP Techniques
 
 ### Group Number:
 32
