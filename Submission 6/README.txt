@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/64cd57e2daa22c1e70bb4fa3
 
 Unlisted YouTube video:
-https://youtu.be/
+https://youtu.be/7TRp_Tp6Jk0
 
 Conference submitted paper / paper submission / login Link:
 https://openreview.net/group?id=ALTA.asn.au/2023/Workshop
@@ -12,7 +12,7 @@ Paper title:
 BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Adaptive BanglaBERT and MLP Techniques
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/
+https://docs.google.com/presentation/d/1xghA7JGcy6xMfyXK0k0OZ_iOj71ZlCC038xtC2pgy_M/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 2023-08-16
