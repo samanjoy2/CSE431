@@ -3,7 +3,8 @@ Repository of Research Project Submissions
 
 ### Link to unlisted YouTube Playlist:
 https://www.youtube.com/playlist?list=PLFXMRU5lmrwxhmybvmrkFm6vm9iwLAjyF
-
+### Project Implementation (Web Application):
+https://banglaclickbert.streamlit.app/
 ### Project title:
 BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Specific BanglaBERT and MLP Techniques
 
